@@ -1,5 +1,5 @@
 ## Envato Tuts+ Course: Web Typography Basics in Figma
-### Instructor: [](https://tutsplus.com/authors/kezz-bracey)
+### Instructor: [Kezz Bracey](https://tutsplus.com/authors/kezz-bracey)
 
 In this course you’ll learn how to design web typography for a website using Figma. Throughout the coming lessons you’ll implement an extensive repertoire of typographic principles we’ve covered in our Tuts+ tutorials across the years.
 
